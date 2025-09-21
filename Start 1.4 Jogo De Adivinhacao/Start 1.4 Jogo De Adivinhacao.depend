@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758469397 source:c:\users\matheus\documents\github\projetodev\start 1.4 jogo de adivinhacao\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
